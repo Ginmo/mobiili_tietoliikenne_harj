@@ -1,0 +1,2 @@
+rootProject.name='MobiiliTietoliinenne_H2_T1'
+include ':app'
